@@ -1,8 +1,8 @@
-# Federated Multi-Layered Deep Learning (Fed-MLDL) for IoT Intrusion Detection
+# Federated Multi-Layered Deep Learning (Fed-MLDL) for IoT Intrusion Detection Using Physics Based Hyperparameter Optimization
 
 ## Overview
 
-The **Federated Multi-Layered Deep Learning (Fed-MLDL)** project aims to enhance intrusion detection systems (IDS) in the Internet of Things (IoT) environment by utilizing federated learning and physics-based hyperparameter optimization (HPO) techniques. With the increasing prevalence of IoT devices and the corresponding surge in cyber-attacks, this project addresses the need for optimized training methods that maintain data privacy across distributed environments.
+The **Federated Multi-Layered Deep Learning (Fed-MLDL)** project aims to enhance intrusion detection systems (IDS) in the Internet of Things (IoT) environment by utilizing federated learning and physics-based hyperparameter optimization (HPO) techniques. With the increasing prevalence of IoT devices and the corresponding surge in cyber-attacks, this project addresses the need for optimized training methods that maintain data privacy across distributed environments. [Link to our Paper](https://ieeexplore.ieee.org/document/10857281)
 
 ## Abstract
 
@@ -23,6 +23,7 @@ This study observes that coupling a Deep-Learning model with HPO techniques resu
   - Upsampling techniques
   - Implementation of a Multi-Layer Perceptron (MLP) model in a federated learning environment
   - Utilization of physics-based hyperparameter optimization techniques
+
 
 ## Requirements
 
