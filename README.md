@@ -23,6 +23,9 @@ This study observes that coupling a Deep-Learning model with HPO techniques resu
   - Upsampling techniques
   - Implementation of a Multi-Layer Perceptron (MLP) model in a federated learning environment
   - Utilization of physics-based hyperparameter optimization techniques
+- **Autoencoder.py** : Python file containing the autoencoder architecture for experimentation
+- **ciciot23eda.py** : File containing graphing techniques and data analysis and statistics part for the project
+- **hpo.py** : Experimentation of FedAVOA technique (African Vultures Optimization Algorithm) in Federated Learning Environment
 
 
 ## Requirements
